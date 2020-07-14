@@ -18,6 +18,10 @@ p, ul {
   * {
     font-size: 1rem;
   }
+
+  html {
+    margin-top:5em;
+  }
 }
 
 /* Add a black background color to the top navigation */
