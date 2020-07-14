@@ -727,7 +727,7 @@ p, ul {
 .card_container {
   width: 85%;
   margin: 0px auto;
-  overflow: scroll;
+  overflow: hidden;
 }
 /* Three columns side by side */
 .column_team {
