@@ -222,6 +222,13 @@ p, ul {
   font-size: 3rem;
 }
 
+@media screen and (max-width: 900px) {
+  .about_header {
+    display: block;
+    width: 85%;
+  }
+}
+
 .about_title {
   border-bottom: 2px solid rgb(61, 151, 72);
 }
