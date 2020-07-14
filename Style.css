@@ -257,7 +257,11 @@ p, ul {
   float: left;
 }
 
-
+@media screen and (max-width: 900px) {
+  ;logo {
+    width:15%;
+  }
+}
 
 
 
