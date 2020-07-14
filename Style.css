@@ -19,6 +19,13 @@ p, ul {
     font-size: 1rem;
   }
 
+  body {
+    padding-left: 0em;
+    padding-right: 0em;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
+
 }
 
 /* Add a black background color to the top navigation */
