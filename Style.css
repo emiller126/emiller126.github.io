@@ -245,7 +245,7 @@ p, ul {
   margin-top: 5em;
   margin-bottom: 0em;
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 .affiliation_container {
@@ -262,7 +262,7 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .affiliation_header {
-    margin-top: 2em;
+    margin-top: 1em;
   }
 
   .logo img {
