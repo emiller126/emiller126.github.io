@@ -258,12 +258,15 @@ p, ul {
 
 .logo img {
   float: left;
-  width: 15%;
 }
 
 @media screen and (max-width: 900px) {
   .affiliation_header {
     margin-top: 2em;
+  }
+
+  .logo img {
+    width: 20%;
   }
 }
  
