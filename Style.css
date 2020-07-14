@@ -243,6 +243,7 @@ p, ul {
   margin-top: 5em;
   margin-bottom: 0em;
   text-align: left;
+  font-size: 1.5rem;
 }
 
 .affiliation_container {
@@ -251,7 +252,6 @@ p, ul {
   grid-template-rows: 50% 50%;
   justify-content: space-evenly;
   align-items: center;
-  margin-top: 3em;
 }
 
 .logo {
