@@ -267,6 +267,7 @@ p, ul {
 
   .logo img {
     width: 80%;
+    height: auto;
   }
 }
  
