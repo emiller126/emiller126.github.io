@@ -259,26 +259,6 @@ p, ul {
   float: left;
 }
 
-@media screen and (max-width: 900px) {
-  .affiliation_header {
-    margin-top: 1.5em;
-  }
-
-  .affiliation_container {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
-  .logo img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-}
-
-
-
   
 /* Forensic Testing*/
 
