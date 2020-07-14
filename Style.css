@@ -236,6 +236,14 @@ p, ul {
 
 /* Affiliations */
 
+.affiliation_header {
+  display: block;
+  width: 100%;
+  margin: 0px auto;
+  text-align: left;
+  font-size: 3rem;
+}
+
 .affiliation_container {
   display: grid;
   grid-template-columns: 30% 30% 30%;
