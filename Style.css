@@ -19,7 +19,7 @@ p, ul {
     font-size: 1rem;
   }
 
-  html {
+  body {
     margin-top:5em;
   }
 }
@@ -263,6 +263,12 @@ p, ul {
   float: left;
 }
 
+@media screen and (max-width: 900px) {
+  .affiliation_header {
+    margin-top: 2em;
+  }
+}
+ 
   
 /* Forensic Testing*/
 
