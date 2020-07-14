@@ -126,7 +126,7 @@ p, ul {
       text-align: left;
     }
     .topnav.responsive .dropdown {float: none;}
-    .topnav.responsive {position: relative;}
+    .topnav.responsive .dropdown-content {position: relative;}
     .topnav.responsive .dropdown .dropbtn {
       display: block;
       width: 100%;
