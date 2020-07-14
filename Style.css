@@ -16,7 +16,7 @@ p, ul {
 
 @media screen and (max-width: 600px) {
   body {
-    font-size: smaller;
+    font-size: 0.5rem;
   }
 }
 
