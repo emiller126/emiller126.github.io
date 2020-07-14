@@ -202,6 +202,7 @@ p, ul {
   width: 85%;
   margin: 15px auto;
   font-size: 1.5rem;
+  height: auto;
 }
 
 .about_header {
@@ -259,6 +260,10 @@ p, ul {
 }
 
 @media screen and (max-width: 900px) {
+  .affiliation_header {
+    margin-top: 1.5em;
+  }
+
   .affiliation_container {
     display: block;
     width: 100%;
