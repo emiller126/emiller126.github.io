@@ -260,8 +260,7 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .affiliation_container {
-    display: block;
-    width:15%;
+    display: inline-block;
   }
 }
 
