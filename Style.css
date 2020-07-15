@@ -251,7 +251,7 @@ p, ul {
     background-color: white;
     width: 100%;
     box-shadow: none;
-    padding: 0em;
+    padding: 0.5em;
   }
 
 }
@@ -306,6 +306,12 @@ p, ul {
   width: 85%;
   margin: 15px auto;
   font-size: 1.5rem;
+}
+
+@media screen and (max-width: 900px) {
+  .forensic_testing_container {
+    padding: 0.5em;
+  }
 }
 
 .ft_heading {
