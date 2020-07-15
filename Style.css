@@ -684,7 +684,7 @@ p, ul {
 .column_sessions {
   display: inline-block;
   width: 75%;
-  align-content: center;
+  align-items: center;
   margin: 0px auto;
 }
 
