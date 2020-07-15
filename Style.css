@@ -682,8 +682,9 @@ p, ul {
 }
 
 .column_sessions {
-  display: block;
+  display: inline-block;
   width: 75%;
+  text-align: center;
   margin: 0px auto;
 }
 
