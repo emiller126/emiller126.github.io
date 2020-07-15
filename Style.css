@@ -669,8 +669,10 @@ p, ul {
   padding: 1em;
 }
 
-.relationship_testing {
+.relationship_training {
   display: block;
+  width: 85%;
+  height: auto;
 }
 
 .relationship_heading {
