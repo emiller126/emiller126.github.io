@@ -691,7 +691,7 @@ p, ul {
   background-color: rgb(253, 253, 253);
   color: rgb(26, 26, 26);
   float: left;
-  width: 30%;
+  width: 45%;
   height: auto;
   padding: 2em;
   border: 1.5px solid #f2f2f2;
@@ -702,7 +702,7 @@ p, ul {
   background-color: rgb(253, 253, 253);
   color: rgb(26, 26, 26);
   float: right;
-  width: 30%;
+  width: 45%;
   height: auto;
   padding: 2em;
   border: 1.5px solid #f2f2f2;
