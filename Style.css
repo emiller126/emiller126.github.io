@@ -251,6 +251,7 @@ p, ul {
     background-color: white;
     width: 100%;
     box-shadow: none;
+    padding: 0em;
   }
 
 }
