@@ -485,23 +485,24 @@ p, ul {
 
 /* Smaller Screens */
 @media screen and (max-width: 900px) {
-  .paternity, .bone_teeth, .DNA_testing, .CODIS, .technical_reviews {
+  .paternity, .bone_teeth, .DNA_testing, .CODIS, .technical_reviews, .parabon {
     text-align: left;
     box-sizing: border-box;
     width: 100%;
     padding: 1em;
   }
 
-  .paternity p, .bone_teeth p, .DNA_testing p, .CODIS p, .technical_reviews p {
+  .paternity p, .bone_teeth p, .DNA_testing p, .CODIS p, .technical_reviews p, .parabon p {
     display: block;
     width: 100%;
   }
 
-  .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img {
+  .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img, .parabon img {
     display: block;
     position: relative;
     width: 100%;
     height: auto;
+    margin: 0px auto;
   }
 }
 
