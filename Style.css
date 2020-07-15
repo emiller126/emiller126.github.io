@@ -489,7 +489,7 @@ p, ul {
     text-align: left;
     box-sizing: border-box;
     width: 100%;
-    padding: 0.5em;
+    padding: 1em;
     margin: 5px auto;
   }
 
@@ -502,7 +502,7 @@ p, ul {
   .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img, .parabon img {
     display: block;
     position: relative;
-    width: 100%;
+    width: 80%;
     height: auto;
     margin: 0px auto;
   }
