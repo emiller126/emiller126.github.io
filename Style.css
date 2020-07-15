@@ -496,6 +496,7 @@ p, ul {
   .paternity p, .bone_teeth p, .DNA_testing p, .CODIS p, .technical_reviews p, .parabon p {
     display: block;
     width: 100%;
+    padding: 0.5em;
   }
 
   .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img, .parabon img {
