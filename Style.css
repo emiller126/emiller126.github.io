@@ -685,7 +685,6 @@ p, ul {
   display: grid;
   grid-column-gap: 1em;
   width: 75%;
-  align-items: center;
   margin: 0px auto;
 }
 
