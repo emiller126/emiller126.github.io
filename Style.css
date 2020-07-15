@@ -492,6 +492,7 @@ p, ul {
 
   .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img {
     display: block;
+    position: relative;
     width: 100%;
     height: auto;
   }
