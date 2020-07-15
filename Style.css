@@ -628,7 +628,6 @@ p, ul {
     height: auto;
   }
 
-
 }
 
 /* Trainings */
@@ -716,14 +715,14 @@ p, ul {
 .case_submission_container {
   display: block;
   font-family: helvetica, sans-serif;
-  width: 100%;
+  width: 85%;
   margin: 15px auto;
   font-size: 1.5rem;
 }
 
 .case_submission_header {
   display: block;
-  width: 85%;
+  width: 100%;
   margin: 0px auto;
   text-align: left;
   font-size: 3rem;
