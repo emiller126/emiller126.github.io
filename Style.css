@@ -225,8 +225,8 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .about_header {
-    width: 85%;
-    font-size: 2rem;
+    width: 100%;
+    font-size: 3rem;
   }
 }
 
