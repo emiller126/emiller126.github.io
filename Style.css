@@ -682,7 +682,7 @@ p, ul {
 }
 
 .column_sessions {
-  display: grid;
+  display: inline-grid;
   width: 75%;
   align-items: center;
   margin: 0px auto;
