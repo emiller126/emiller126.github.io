@@ -673,11 +673,12 @@ p, ul {
   display: block;
   width: 85%;
   height: auto;
-  margin: auto;
+  margin: 0px auto;
 }
 
 .relationship_heading {
   margin-top: 0px;
+  text-align: left;
 }
 
 .column_sessions {
