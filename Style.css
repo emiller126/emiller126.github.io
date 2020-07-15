@@ -735,6 +735,7 @@ p, ul {
 .case_submission_content {
   background-color: white;
   display: block;
+  box-sizing: border-box;
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
