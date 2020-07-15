@@ -211,6 +211,7 @@ p, ul {
 @media screen and (max-width: 900px) {
   .about_container {
     width: 90%;
+    height: auto;
   }
 }
 
@@ -224,7 +225,6 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .about_header {
-    display: block;
     width: 85%;
     font-size: 2rem;
   }
