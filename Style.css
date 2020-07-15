@@ -311,7 +311,6 @@ p, ul {
 @media screen and (max-width: 900px) {
   .forensic_testing_container {
     padding: 0.5em;
-    margin: 10px auto;
   }
 }
 
