@@ -684,7 +684,7 @@ p, ul {
 .column_sessions {
   display: grid;
   grid-column-gap: 1em;
-  grid-template-columns: 45%;
+  grid-template-columns: 100%;
   width: 75%;
   margin: 0px auto;
 }
