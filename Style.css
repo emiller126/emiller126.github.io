@@ -647,7 +647,7 @@ p, ul {
 
 .trainings_header {
   display: block;
-  width: 85%;
+  width: 100%;
   margin: 0px auto;
   text-align: left;
   font-size: 3rem;
