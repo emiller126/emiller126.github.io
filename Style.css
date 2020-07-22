@@ -626,6 +626,9 @@ p, ul {
 }
 
 @media screen and (max-width: 900px) {
+  .processing, .prep, .pcr {
+    padding: 1em;
+  }
   .processing p, .prep p, .pcr p {
     display: block;
     width: 100%;
