@@ -562,6 +562,7 @@ p, ul {
   float: left;
   width: 45%;
   height: auto;
+  box-sizing: border-box;
 }
 
 /* Prep Lab */
@@ -593,6 +594,7 @@ p, ul {
   padding: 1.2em;
   padding-top: 0px;
   padding-right: 2em;
+  box-sizing: border-box;
 }
 
 /* PCR Lab */
@@ -619,6 +621,7 @@ p, ul {
   padding: 1.5em;
   padding-top: 0px;
   padding-bottom: 1em;
+  box-sizing: border-box;
 
 }
 
