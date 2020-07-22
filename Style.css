@@ -216,7 +216,7 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .about_container {
-    width: 90%;
+    width: 85%;
     height: auto;
   }
 }
@@ -293,7 +293,7 @@ p, ul {
   float: left;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 900px) {
   .affiliation_header {
     margin-top: 1em;
   }
