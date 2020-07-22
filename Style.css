@@ -278,6 +278,7 @@ p, ul {
   margin-bottom: 0em;
   text-align: left;
   font-size: 1.5rem;
+  height: auto;
 }
 
 .affiliation_container {
@@ -298,7 +299,7 @@ p, ul {
   }
 
   .logo img {
-    width: 80%;
+    width: 60%;
     height: auto;
   }
 }
