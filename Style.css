@@ -736,9 +736,9 @@ p, ul {
 
 .case_submission_header {
   display: block;
-  width: 85%;
+  width: 100%;
   margin: 0px auto;
-  text-align: left;
+  text-align: right;
   font-size: 3rem;
 }
 
