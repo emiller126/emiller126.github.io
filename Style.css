@@ -645,7 +645,7 @@ p, ul {
   font-size: 1.5rem;
 }
 
-.trainings_header {
+.trainings_intro {
   display: block;
   width: 100%;
   box-sizing: border-box;
@@ -658,7 +658,7 @@ p, ul {
   border-bottom: 2px solid rgb(61, 151, 72);
 }
 
-.trainings_columns {
+.trainings_intro {
   background-color: white;
   display: block;
   font-family: helvetica, sans-serif;
