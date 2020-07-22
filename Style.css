@@ -293,7 +293,7 @@ p, ul {
   float: left;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
   .affiliation_header {
     margin-top: 1em;
   }
