@@ -806,6 +806,8 @@ p, ul {
 }
 
 .customer_reviews img {
+  width: 85%;
+  height: auto;
   margin: 0px auto;
 }
 
