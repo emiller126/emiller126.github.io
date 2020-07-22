@@ -784,7 +784,7 @@ p, ul {
   display: block;
   margin: 15px auto;
   width: 100%;
-  text-align: right;
+  text-align: left;
   font-size: 3em;
 }
 
