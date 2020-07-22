@@ -852,7 +852,7 @@ p, ul {
 
 /* Some left and right padding inside the container */
 .container_team {
-  padding: 0 16px;
+  padding: 16px 16px;
 }
 
 /* Clear floats */
