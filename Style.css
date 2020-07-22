@@ -803,12 +803,14 @@ p, ul {
   width: 100%;
   height: auto;
   margin: 30px auto;
+  ;
 }
 
 .customer_reviews img {
+  display: block;
   width: 85%;
   height: auto;
-  margin: 0px auto;
+  margin: auto;
 }
 
 
