@@ -799,6 +799,7 @@ p, ul {
 }
 
 .customer_reviews {
+  display: block;
   width: 100%;
   height: auto;
   margin: 0px auto;
@@ -806,7 +807,7 @@ p, ul {
 }
 
 .customer_reviews img {
-  align-content: center;
+  margin: 0px auto;
 }
 
 
