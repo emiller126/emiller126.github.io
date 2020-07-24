@@ -557,6 +557,10 @@ p, ul {
   width: 50%;
 }
 
+.processing ul {
+  box-sizing: border-box;
+}
+
 .processing img {
   float: left;
   width: 45%;
