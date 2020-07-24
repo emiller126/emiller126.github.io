@@ -552,10 +552,6 @@ p, ul {
   text-align: right;
 }
 
-.processing p {
-  float: right;
-  width: 50%;
-}
 
 .processing_info {
   display: block;
