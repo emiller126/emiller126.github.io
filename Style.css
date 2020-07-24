@@ -555,7 +555,6 @@ p, ul {
 .processing p {
   float: right;
   width: 50%;
-  display: inline-block;
 }
 
 .processing img {
