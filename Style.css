@@ -603,6 +603,14 @@ p, ul {
   padding-right: 2em;
 }
 
+.pic1 {
+  float: left;
+}
+
+.pic2 {
+  float: right;
+}
+
 /* PCR Lab */
 .pcr {
   background-color: white;
