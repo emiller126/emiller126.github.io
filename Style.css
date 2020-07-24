@@ -555,6 +555,7 @@ p, ul {
 .processing p {
   float: right;
   width: 50%;
+  display: inline-block;
 }
 
 .processing img {
@@ -584,7 +585,10 @@ p, ul {
 
 .validations_list {
   display: inline-block;
-  box-sizing: border-box;
+}
+
+.validations_list ul {
+
 }
 
 .prep img {
