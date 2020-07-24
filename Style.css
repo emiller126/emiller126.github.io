@@ -584,6 +584,11 @@ p, ul {
   margin-top: 0px;
 }
 
+.prep_info {
+  display: block;
+  float: right;
+}
+
 .validations_list {
   display: inline-block;
 }
