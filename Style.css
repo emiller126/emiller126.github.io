@@ -584,6 +584,7 @@ p, ul {
 
 .validations_list {
   display: inline-block;
+  box-sizing: border-box;
 }
 
 .prep img {
