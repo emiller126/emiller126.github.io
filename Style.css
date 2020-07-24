@@ -595,7 +595,7 @@ p, ul {
 
 
 .prep img {
-  float: left;
+  display: inline-block;
   width: 45%;
   height: auto;
   padding: 1.2em;
