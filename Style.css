@@ -612,7 +612,7 @@ p, ul {
   margin: 0px auto;
 }
 
-.pic2::after {
+.prep_lab_pics::after {
   content: "";
   clear: both;
   margin: 0px auto;
