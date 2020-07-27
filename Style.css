@@ -606,7 +606,14 @@ p, ul {
   display: inline-block;
   margin: 0px auto;
   width: 100%;
+}
 
+.pic1 {
+  margin: 0px auto;
+}
+
+.pic2 {
+  margin: 0px auto;
 }
 
 /* PCR Lab */
