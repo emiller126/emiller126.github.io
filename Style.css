@@ -603,7 +603,7 @@ p, ul {
 }
 
 .prep_lab_pics {
-  display: block;
+  display: inline-block;
   margin: 0px auto;
   width: 100%;
 }
