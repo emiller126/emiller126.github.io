@@ -600,15 +600,13 @@ p, ul {
   height: auto;
   padding: 1em;
   padding-top: 0px;
-  padding-right: 2em;
 }
 
-.pic1 {
-  float: left;
-}
+.prep_lab_pics {
+  display: inline-block;
+  align-items: center;
+  width: 100%;
 
-.pic2 {
-  float: right;
 }
 
 /* PCR Lab */
