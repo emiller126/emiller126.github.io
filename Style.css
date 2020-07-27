@@ -605,17 +605,15 @@ p, ul {
 .prep_lab_pics {
   display: block;
   margin: 0px auto;
-  width: 100%;
+  width: 80%;
 }
 
 .pic1 {
-  margin: 0px auto;
+  float: inline-start;
 }
 
-.prep_lab_pics::after {
-  content: "";
-  clear: both;
-  margin: 0px auto;
+.pic2 {
+  float: inline-end;
 }
 
 /* PCR Lab */
