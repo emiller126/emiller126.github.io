@@ -603,18 +603,18 @@ p, ul {
 }
 
 .prep_lab_pics {
-  float: left;
+  display: block;
   margin: 0px auto;
   width: 100%;
 }
 
-.pic1 .pic2::after {
-  content: "";
-  clear: both;
-  display: table;
+.pic1 {
+  margin: 0px auto;
 }
 
-
+.pic2 {
+  margin: 0px auto;
+}
 
 /* PCR Lab */
 .pcr {
