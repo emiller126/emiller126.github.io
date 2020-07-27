@@ -604,7 +604,7 @@ p, ul {
 
 .prep_lab_pics {
   display: inline-block;
-  align-items: center;
+  margin: 0px auto;
   width: 100%;
 
 }
