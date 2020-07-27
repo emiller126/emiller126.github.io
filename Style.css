@@ -595,7 +595,7 @@ p, ul {
 
 
 .prep img {
-  display: inline-block;
+  display: block;
   width: 40%;
   height: auto;
   padding: 1em;
@@ -603,7 +603,7 @@ p, ul {
 }
 
 .prep_lab_pics {
-  display: inline-block;
+  display: block;
   margin: 0px auto;
   width: 100%;
 }
