@@ -612,7 +612,9 @@ p, ul {
   margin: 0px auto;
 }
 
-.pic2 {
+.pic2::after {
+  content: "";
+  clear: both;
   margin: 0px auto;
 }
 
