@@ -44,9 +44,9 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .topnav a {
-    float: none;
+    float: left;
     padding: 7px 8px;
-    font-size: 8px;
+    font-size: 12px;
   }
 }
   
