@@ -29,13 +29,6 @@ p, ul {
     width: 100%;
     z-index: 1;
   }
-
-@media screen and (max-width: 900px) {
-  .topnav {
-    height: auto;
-    
-  }
-}
   
   /* Style the links inside the navigation bar */
   .topnav a {
@@ -48,6 +41,14 @@ p, ul {
     font-size: 17px;
     font-family: Helvetica, sans-serif;
   }
+
+@media screen and (max-width: 900px) {
+  .topnav a {
+    float: none;
+    padding: 7px 8px;
+    font-size: 8px;
+  }
+}
   
   /* Add an active class to highlight the current page */
   .active {
