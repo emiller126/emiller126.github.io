@@ -29,6 +29,13 @@ p, ul {
     width: 100%;
     z-index: 1;
   }
+
+@media screen and (max-width: 900px) {
+  .topnav {
+    height: auto;
+    
+  }
+}
   
   /* Style the links inside the navigation bar */
   .topnav a {
