@@ -111,6 +111,7 @@ p, ul {
   @media screen and (max-wdith: 900px) {
     .topnav a {
       display: block;
+      width: 100%;
       height: auto;
     }
   }
