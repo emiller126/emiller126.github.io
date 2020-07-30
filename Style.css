@@ -45,7 +45,7 @@ p, ul {
   .topnav a {
     float: left;
     padding: 7px 8px;
-    font-size: 10px;
+    font-size: 9px;
   }
 }
   
@@ -116,9 +116,7 @@ p, ul {
 }
 
   @media screen and (max-wdith: 900px) {
-    .topnav a {
-      font-size: 0.3em;
-    }
+    
   }
   
   /* When the screen is less than 750 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
