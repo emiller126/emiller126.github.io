@@ -241,6 +241,12 @@ p, ul {
   font-size: 3rem;
 }
 
+@media screen and (max-width: 900px) {
+  .about_header {
+    font-size: 1.5rem;
+  }
+}
+
 .about_title {
   border-bottom: 2px solid rgb(61, 151, 72);
 }
@@ -259,7 +265,6 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .about_content {
-    background-color: white;
     width: 100%;
     box-shadow: none;
     padding: 0.5em;
