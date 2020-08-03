@@ -527,7 +527,7 @@ p, ul {
     box-sizing: border-box;
     width: 100%;
     padding: 1em;
-    margin: 5px auto;
+    margin: 15px auto;
   }
 
   .paternity p, .bone_teeth p, .DNA_testing p, .CODIS p, .technical_reviews p, .parabon p {
