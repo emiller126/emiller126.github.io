@@ -227,8 +227,9 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .about_container {
-    width: 85%;
+    width: 90%;
     height: auto;
+    font-size: 1.5rem;
   }
 }
 
@@ -238,13 +239,6 @@ p, ul {
   margin: 0px auto;
   text-align: left;
   font-size: 3rem;
-}
-
-@media screen and (max-width: 900px) {
-  .about_header {
-    width: 100%;
-    font-size: 3rem;
-  }
 }
 
 .about_title {
