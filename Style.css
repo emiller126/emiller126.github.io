@@ -351,8 +351,9 @@ p, ul {
   display: block;
   width: 100%;
   margin: 0px auto;
-  text-align: left;
+  text-align: right;
   font-size: 3rem;
+  border-bottom: 2px solid rgb(61, 151, 72);
 }
 
 @media screen and (max-width: 900px) {
