@@ -360,6 +360,7 @@ p, ul {
 @media screen and (max-width: 900px) {
   .testing_header {
     font-size: 3rem;
+    margin-bottom: 30px;
   }
 }
 
@@ -527,7 +528,7 @@ p, ul {
     box-sizing: border-box;
     width: 100%;
     padding: 1em;
-    margin: 15px auto;
+    margin: 7.5px auto;
   }
 
   .paternity p, .bone_teeth p, .DNA_testing p, .CODIS p, .technical_reviews p, .parabon p {
