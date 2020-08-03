@@ -348,7 +348,11 @@ p, ul {
 }
 
 .testing_header {
-  border-bottom: 2px solid rgb(61, 151, 72);
+  display: block;
+  width: 100%;
+  margin: 0px auto;
+  text-align: left;
+  font-size: 3rem;
 }
 
 @media screen and (max-width: 900px) {
