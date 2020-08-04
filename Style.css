@@ -229,7 +229,7 @@ p, ul {
 @media screen and (max-width: 900px) {
   .about_container {
     font-size: 1.5rem;
-    width: 90%;
+    width: 95%;
   }
 }
 
@@ -340,7 +340,7 @@ p, ul {
   .forensic_testing_container {
     padding: 0.5em;
     margin: 7.5px auto;
-    width: 90%;
+    width: 95%;
   }
 }
 
@@ -549,7 +549,7 @@ p, ul {
   .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img, .parabon img {
     display: block;
     position: relative;
-    width: 80%;
+    width: 85%;
     height: auto;
     margin: 0px auto;
     float: none;
@@ -776,7 +776,7 @@ p, ul {
 @media screen and (max-width: 900px) {
   .trainings_container {
     display: block;
-    width: 90%;
+    width: 95%;
   }
   .trainings_header {
     font-size: 1.5rem;
@@ -826,6 +826,9 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   
+  .case_submission_container {
+    width: 95%;
+  }
   .case_submission_header {
     font-size: 1.5rem;
   }
