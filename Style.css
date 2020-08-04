@@ -559,7 +559,7 @@ p, ul {
   width: 85%;
   margin: 15px auto;
   font-size: 1.5em;
-  margin-top: 2em;
+  margin-top: 1.5em;
 }
 
 .facilities_header {
@@ -684,6 +684,12 @@ p, ul {
 }
 
 @media screen and (max-width: 900px) {
+
+  .facilities_header {
+    margin-top: 20px;
+    font-size: 3rem;
+  }
+
   .processing, .prep, .pcr {
     padding: 1em;
   }
@@ -697,6 +703,8 @@ p, ul {
     width: 100%;
     height: auto;
     padding: 1em;
+    float: none;
+    margin: 0px auto;
   }
 
 }
