@@ -693,16 +693,21 @@ p, ul {
   .processing, .prep, .pcr {
     padding: 1em;
   }
+
+  .processing h1, .prep h1, .pcr h1 {
+    font-size: 1.5rem;
+  }
   .processing p, .prep p, .pcr p {
     display: block;
     width: 100%;
+    float: none;
   }
 
   .processing img, .prep img, .pcr img {
     display: block;
     width: 100%;
     height: auto;
-    padding: 1em;
+    padding: 0.25em;
     float: none;
     margin: 0px auto;
   }
