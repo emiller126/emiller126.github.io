@@ -883,6 +883,13 @@ p, ul {
   }
 }
 
+
+/* Contact Cards */
+
+.contact_cards {
+  width: 85%;
+  margin: 0px auto;
+}
 .card_container {
   width: 85%;
   margin: 0px auto;
