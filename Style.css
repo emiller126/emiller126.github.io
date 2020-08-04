@@ -227,7 +227,7 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .about_container {
-    width: 90%;
+    width: 85%;
     height: auto;
     font-size: 1.5rem;
   }
@@ -255,7 +255,7 @@ p, ul {
   background-color: white;
   color: black;
   display: block;
-  width: 85%;
+  width: 100%;
   margin: 10px auto;
   margin-bottom: 1.5em;
   padding: 2em;
@@ -266,7 +266,6 @@ p, ul {
 @media screen and (max-width: 900px) {
   .about_content {
     width: 100%;
-    box-shadow: none;
     padding: 0.5em;
     font-size: 0.75em;
   }
@@ -891,7 +890,7 @@ p, ul {
   margin: 4em auto;
 }
 .card_container {
-  width: 85%;
+  width: 100%;
   margin: 0px auto;
 }
 /* Three columns side by side */
