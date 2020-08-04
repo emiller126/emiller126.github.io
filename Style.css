@@ -524,7 +524,7 @@ p, ul {
 /* Smaller Screens */
 @media screen and (max-width: 900px) {
 
-  .testing_zigzag_design h1, .testing_zigzag_design p {
+  .testing_zigzag_design h1, {
     font-size: 1.5rem;
   }
 
@@ -540,6 +540,7 @@ p, ul {
     display: block;
     width: 100%;
     padding: 0.5em;
+    font-size: 1.5em;
   }
 
   .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img, .parabon img {
