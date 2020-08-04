@@ -13,14 +13,13 @@ p, ul {
   color: rgb(44, 44, 44);
 }
 
-@media screen and (max-width: 900px) {
   
 a {
   text-decoration: darkgreen;
 }
 
 
-}
+
 
 /* Add a black background color to the top navigation */
 .topnav {
