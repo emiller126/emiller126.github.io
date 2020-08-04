@@ -540,6 +540,7 @@ p, ul {
     width: 100%;
     padding: 0.5em;
     font-size: 0.75em;
+    margin: 0px;
   }
 
   .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img, .parabon img {
