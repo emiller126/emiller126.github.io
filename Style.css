@@ -220,7 +220,7 @@ p, ul {
 .about_container {
   display: block;
   font-family: helvetica, sans-serif;
-  width: 100%;
+  width: 85%;
   margin: 15px auto;
   font-size: 1.5rem;
   height: auto;
@@ -228,8 +228,6 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   .about_container {
-    width: 100%;
-    height: auto;
     font-size: 1.5rem;
   }
 }
