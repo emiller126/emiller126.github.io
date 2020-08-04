@@ -705,6 +705,10 @@ p, ul {
     font-size: 0.75em;
   }
 
+  .validations_list {
+    font-size: 0.75em;
+  }
+
   .processing_info {
     float: none;
     width: 100%;
