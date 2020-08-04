@@ -15,7 +15,9 @@ p, ul {
 
 @media screen and (max-width: 900px) {
   
-
+a {
+  text-decoration: darkgreen;
+}
 
 
 }
