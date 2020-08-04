@@ -176,7 +176,7 @@ a {
 
 @media screen and (max-width: 900px) {
   .building {
-    margin-top: 16px;
+    margin-top: 18px;
   }
 }
 
@@ -230,7 +230,7 @@ a {
 @media screen and (max-width: 900px) {
   .about_container {
     font-size: 1.5rem;
-    width: 95%;
+    width: 90%;
   }
 }
 
@@ -340,7 +340,7 @@ a {
   .forensic_testing_container {
     padding: 0.5em;
     margin: 7.5px auto;
-    width: 95%;
+    width: 90%;
   }
 }
 
@@ -570,7 +570,7 @@ a {
 
 @media screen and (max-width: 900px) {
   .facilities_container {
-    width: 95%;
+    width: 90%;
   }
 }
 
@@ -778,7 +778,7 @@ a {
 @media screen and (max-width: 900px) {
   .trainings_container {
     display: block;
-    width: 95%;
+    width: 90%;
   }
   .trainings_header {
     font-size: 1.5rem;
@@ -829,7 +829,7 @@ a {
 @media screen and (max-width: 900px) {
   
   .case_submission_container {
-    width: 95%;
+    width: 90%;
   }
   .case_submission_header {
     font-size: 1.5rem;
@@ -890,7 +890,7 @@ a {
 
 @media screen and (max-width: 900px) {
   .container_contact {
-    width: 95%;
+    width: 90%;
   }
 
   .team_heading {
