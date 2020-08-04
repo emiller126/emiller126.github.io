@@ -697,9 +697,14 @@ p, ul {
   .processing h1, .prep h1, .pcr h1 {
     font-size: 1.5rem;
   }
+
   .processing p, .prep p, .pcr p {
     display: block;
     width: 100%;
+    float: none;
+  }
+
+  .processing_info {
     float: none;
   }
 
