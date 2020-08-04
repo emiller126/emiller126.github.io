@@ -229,6 +229,7 @@ p, ul {
 @media screen and (max-width: 900px) {
   .about_container {
     font-size: 1.5rem;
+    width: 90%;
   }
 }
 
