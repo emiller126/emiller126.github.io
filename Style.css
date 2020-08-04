@@ -611,6 +611,7 @@ a {
 
 .processing img {
   float: left;
+  position: relative;
   width: 45%;
   height: auto;
   box-sizing: border-box;
