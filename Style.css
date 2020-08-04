@@ -344,6 +344,7 @@ p, ul {
   width: 100%;
   margin: 0px auto;
   text-align: left;
+  font-size: 3rem;
 }
 
 .testing_header {
