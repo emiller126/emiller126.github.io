@@ -731,7 +731,7 @@ a {
   .processing img, .prep img, .pcr img {
     display: block;
     position: relative;
-    width: 75%;
+    width: 95%;
     height: auto;
     padding: 0.25em;
     float: none;
