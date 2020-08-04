@@ -329,6 +329,7 @@ p, ul {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
+  font-size: 1.5rem;
 }
 
 @media screen and (max-width: 900px) {
@@ -343,15 +344,12 @@ p, ul {
   width: 100%;
   margin: 0px auto;
   text-align: left;
-  font-size: 3rem;
 }
 
 .testing_header {
   display: block;
   width: 100%;
   margin: 0px auto;
-  text-align: right;
-  font-size: 3rem;
   border-bottom: 2px solid rgb(61, 151, 72);
 }
 
