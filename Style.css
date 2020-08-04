@@ -295,7 +295,7 @@ p, ul {
   height: auto;
 }
 
-@media screen and (mac-width: 900px) {
+@media screen and (max-width: 900px) {
   .affiliation_header {
     font-size: 0.75em;
   }
