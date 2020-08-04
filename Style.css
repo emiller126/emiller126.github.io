@@ -329,7 +329,6 @@ p, ul {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 1.5rem;
 }
 
 @media screen and (max-width: 900px) {
