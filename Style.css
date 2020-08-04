@@ -767,10 +767,9 @@ p, ul {
     display: block;
     width: 90%;
   }
-  .trainings_session1, .trainings_session2 {
-    display: block;
-    width: 100%;
-    box-sizing: border-box;
+  .trainings_header {
+    font-size: 3rem;
+    margin: 10px 0px;
   }
 }
 
