@@ -340,6 +340,7 @@ p, ul {
   .forensic_testing_container {
     padding: 0.5em;
     margin: 7.5px auto;
+    width: 90%;
   }
 }
 
