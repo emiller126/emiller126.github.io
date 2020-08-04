@@ -550,9 +550,9 @@ a {
   .paternity img, .bone_teeth img, .DNA_testing img, .CODIS img, .technical_reviews img, .parabon img {
     display: block;
     position: relative;
-    width: 65%;
+    width: 85%;
     height: auto;
-    margin: 2em auto;
+    margin: 0px auto;
     float: none;
   }
 }
@@ -731,7 +731,7 @@ a {
   .processing img, .prep img, .pcr img {
     display: block;
     position: relative;
-    width: 100%;
+    width: 75%;
     height: auto;
     padding: 0.25em;
     float: none;
