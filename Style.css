@@ -686,7 +686,7 @@ p, ul {
 @media screen and (max-width: 900px) {
 
   .facilities_header {
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 3rem;
   }
 
