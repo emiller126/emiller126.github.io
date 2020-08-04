@@ -567,6 +567,12 @@ p, ul {
   margin-top: 1.5em;
 }
 
+@media screen and (max-width: 900px) {
+  .facilities_container {
+    width: 90%;
+  }
+}
+
 .facilities_header {
   border-bottom: 2px solid rgb(61, 151, 72);
   font-size: 4em;
