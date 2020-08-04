@@ -702,10 +702,13 @@ p, ul {
     display: block;
     width: 100%;
     float: none;
+    font-size: 0.75em;
   }
 
   .processing_info {
     float: none;
+    width: 100%;
+
   }
 
   .processing img, .prep img, .pcr img {
