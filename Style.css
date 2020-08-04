@@ -523,9 +523,8 @@ p, ul {
 /* Smaller Screens */
 @media screen and (max-width: 900px) {
 
-  .testing_zigzag_design h1, {
+  .testing_zigzag_design h1 {
     font-size: 0.75rem;
-    text-emphasis: bold;
   }
 
   .paternity, .bone_teeth, .DNA_testing, .CODIS, .technical_reviews, .parabon {
