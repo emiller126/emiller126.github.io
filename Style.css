@@ -39,7 +39,7 @@ a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 15px;
   font-family: Helvetica, sans-serif;
 }
 
@@ -220,13 +220,13 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   height: auto;
 }
 
 @media screen and (max-width: 900px) {
   .about_container {
-    font-size: 1.5rem;
+    font-size: 0.75rem;
     width: 90%;
   }
 }
@@ -236,7 +236,7 @@ a {
   width: 100%;
   margin: 0px auto;
   text-align: left;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 @media screen and (max-width: 900px) {
@@ -289,7 +289,7 @@ a {
   margin-top: 4.5em;
   margin-bottom: 0em;
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   height: auto;
 }
 
@@ -330,7 +330,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
 }
 
 @media screen and (max-width: 900px) {
@@ -346,7 +346,7 @@ a {
   width: 100%;
   margin: 0px auto;
   text-align: left;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 .testing_header {
@@ -358,7 +358,7 @@ a {
 
 @media screen and (max-width: 900px) {
   .testing_header {
-    font-size: 3rem;
+    font-size: 1.5rem;
     margin-bottom: 30px;
   }
 }
@@ -561,7 +561,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 1.5em;
+  font-size: 0.75em;
   margin-top: 1.5em;
 }
 
@@ -573,7 +573,7 @@ a {
 
 .facilities_header {
   border-bottom: 2px solid rgb(61, 151, 72);
-  font-size: 4em;
+  font-size: 2em;
   text-align: right;
 }
 
@@ -743,7 +743,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
 }
 
 .trainings_header {
@@ -752,7 +752,7 @@ a {
   box-sizing: border-box;
   margin: 0px auto;
   text-align: left;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 .trainings_title {
@@ -765,7 +765,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   margin-top: 3em;
   box-shadow: 0 4px 8px 0 rgba(61,151,72,0.2), 0 4px 8px 0 rgba(61,151,72,0.2);
   padding: 1em;
@@ -795,7 +795,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
 }
 
 .case_submission_header {
@@ -803,7 +803,7 @@ a {
   width: 100%;
   margin: 0px auto;
   text-align: right;
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 .submission_title {
@@ -817,7 +817,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 100%;
   margin: 15px auto;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   margin-top: 3em;
   box-shadow: 0 4px 8px 0 rgba(61,151,72,0.2), 0 4px 8px 0 rgba(61,151,72,0.2);
   padding: 2em;
@@ -857,7 +857,7 @@ a {
   margin: 15px auto;
   width: 100%;
   text-align: left;
-  font-size: 3em;
+  font-size: 1.5em;
 }
 
 .team_heading h2 {
