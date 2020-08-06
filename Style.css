@@ -17,6 +17,10 @@ body {
   body {
     width: 100%;
   }
+
+  .topnav {
+    width: 100%;
+  }
 }
 
 p, ul {
