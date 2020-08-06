@@ -43,7 +43,7 @@ a {
   font-family: Helvetica, sans-serif;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .topnav a {
     float: left;
     padding: 7px 8px;
@@ -117,7 +117,7 @@ a {
   display: block;
 }
 
-  @media screen and (max-wdith: 1100px) {
+  @media screen and (max-wdith: 1000px) {
     
   }
   
@@ -175,7 +175,7 @@ a {
   position: relative;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .building {
     margin-top: 18px;
   }
@@ -207,7 +207,7 @@ a {
   opacity: 1;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .welcome_info {
     opacity: 0%;
     padding: 0em;
@@ -228,7 +228,7 @@ a {
   height: auto;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .about_container {
     font-size: 1.5rem;
     width: 90%;
@@ -243,7 +243,7 @@ a {
   font-size: 3rem;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .about_header {
     font-size: 1.5rem;
   }
@@ -266,7 +266,7 @@ a {
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .about_content {
     font-size: 0.75em;
   }
@@ -278,7 +278,7 @@ a {
   padding-right: 2em;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .anab_logo {
     width: 25%;
   }
@@ -297,7 +297,7 @@ a {
   height: auto;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .affiliation_header {
     font-size: 0.95em;
   }
@@ -315,7 +315,7 @@ a {
   float: left;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .affiliation_header {
     margin-top: 1em;
   }
@@ -337,7 +337,7 @@ a {
   font-size: 1.5rem;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .forensic_testing_container {
     padding: 0.5em;
     margin: 7.5px auto;
@@ -360,7 +360,7 @@ a {
   border-bottom: 2px solid rgb(61, 151, 72);
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .testing_header {
     font-size: 3rem;
     margin-bottom: 30px;
@@ -526,7 +526,7 @@ a {
 }
 
 /* Smaller Screens */
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
 
   .testing_zigzag_design h1 {
     font-size: 1.5rem;
@@ -569,7 +569,7 @@ a {
   margin-top: 1.5em;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .facilities_container {
     width: 90%;
   }
@@ -697,7 +697,7 @@ a {
 
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
 
   .facilities_header {
     margin-top: 10px;
@@ -776,7 +776,7 @@ a {
 }
 
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .trainings_container {
     display: block;
     width: 90%;
@@ -827,7 +827,7 @@ a {
   padding: 2em;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   
   .case_submission_container {
     width: 90%;
@@ -889,7 +889,7 @@ a {
   margin: auto;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .container_contact {
     width: 90%;
   }
@@ -923,7 +923,7 @@ a {
 }
 
 /* Display the columns below each other instead of side by side on small screens */
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1000px) {
   .column_team {
     width: 100%;
     display: block;
