@@ -294,7 +294,7 @@ a {
   margin-top: 4.5em;
   margin-bottom: 0em;
   text-align: left;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
   height: auto;
 }
 
@@ -335,7 +335,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
 }
 
 @media screen and (max-width: 900px) {
@@ -351,7 +351,7 @@ a {
   width: 100%;
   margin: 0px auto;
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .testing_header {
@@ -748,7 +748,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
 }
 
 .trainings_header {
@@ -757,7 +757,7 @@ a {
   box-sizing: border-box;
   margin: 0px auto;
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .trainings_title {
@@ -770,7 +770,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
   margin-top: 3em;
   box-shadow: 0 4px 8px 0 rgba(61,151,72,0.2), 0 4px 8px 0 rgba(61,151,72,0.2);
   padding: 1em;
@@ -800,7 +800,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 85%;
   margin: 15px auto;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
 }
 
 .case_submission_header {
@@ -808,7 +808,7 @@ a {
   width: 100%;
   margin: 0px auto;
   text-align: right;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .submission_title {
@@ -822,7 +822,7 @@ a {
   font-family: helvetica, sans-serif;
   width: 100%;
   margin: 15px auto;
-  font-size: 0.75rem;
+  font-size: 1.2rem;
   margin-top: 3em;
   box-shadow: 0 4px 8px 0 rgba(61,151,72,0.2), 0 4px 8px 0 rgba(61,151,72,0.2);
   padding: 2em;
