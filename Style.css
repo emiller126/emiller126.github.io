@@ -13,6 +13,12 @@ body {
   box-shadow: 0 4px 8px 0 #4646466c, 0 4px 8px 0 #4646466c;
 }
 
+@media screen and (max-width: 900px) {
+  body {
+    width: 100%;
+  }
+}
+
 p, ul {
   color: rgb(44, 44, 44);
 }
