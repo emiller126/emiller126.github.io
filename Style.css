@@ -17,10 +17,6 @@ body {
   body {
     width: 100%;
   }
-
-  .topnav {
-    width: 100%;
-  }
 }
 
 p, ul {
@@ -44,6 +40,12 @@ a {
   width: 75%;
   z-index: 1;
   margin: 0px auto;
+}
+
+@media screen and (max-width: 900px) {
+  .topnav {
+    width: 100%;
+  }
 }
   
   /* Style the links inside the navigation bar */
