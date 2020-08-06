@@ -116,10 +116,6 @@ a {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-  @media screen and (max-wdith: 900px) {
-    
-  }
   
   /* When the screen is less than 750 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 /*
@@ -171,7 +167,8 @@ a {
   display: block;
   width: 100%;
   height: auto;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   position: relative;
 }
 
