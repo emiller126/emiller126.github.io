@@ -10,7 +10,7 @@ body {
   background-color: rgb(253, 253, 253);
   width: 75%;
   margin: 0px auto;
-  box-shadow: 0 4px 8px 0 #0000006c, 0 4px 8px 0 #0000006c;
+  box-shadow: 0 4px 8px 0 #0000005d, 0 4px 8px 0 #0000005d;
 }
 
 @media screen and (max-width: 900px) {
