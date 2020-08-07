@@ -620,7 +620,7 @@ a {
 .processing_info {
   display: block;
   width: 50%;
-  
+  float: right;
 }
 
 .processing img {
