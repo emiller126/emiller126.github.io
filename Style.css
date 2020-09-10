@@ -318,7 +318,7 @@ a {
 
 .affiliation_container {
   display: grid;
-  grid-template-columns: 30% 30% 30%;
+  grid-template-columns: 35% 35% 30%;
   grid-template-rows: 50% 50%;
   justify-content: space-evenly;
   align-items: center;
