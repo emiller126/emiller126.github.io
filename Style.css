@@ -327,7 +327,8 @@ a {
 }
 
 .logo img {
-  float: left;
+  margin: 0px auto;
+  width: 25%;
 }
 
 @media screen and (max-width: 900px) {
