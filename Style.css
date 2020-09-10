@@ -322,6 +322,8 @@ a {
   grid-template-rows: 50% 50%;
   justify-content: space-evenly;
   align-items: center;
+  margin: 0px auto;
+  width: 85%;
 }
 
 .logo img {
