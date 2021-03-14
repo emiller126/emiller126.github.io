@@ -927,7 +927,7 @@ a {
   margin: 4em auto;
 }
 .card_container {
-  width: 1000px;
+  width: 100%;
   margin: 0px auto;
 }
 /* Three columns side by side */
