@@ -992,6 +992,10 @@ a {
 
 /* Footer */
 
+footer {
+  padding: 10px;
+}
+
 .footer {
   width: 100%;
   margin: 0px auto;
